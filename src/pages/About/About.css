@@ -1,0 +1,23 @@
+.custom-about{
+    margin-top: 170px;
+    height: 75rem;
+    
+}
+@media screen and (max-width: 600px){
+    .custom-about{
+        height: 200rem;
+    }
+}
+.custom-about .lead{
+    margin-bottom: 20px;
+    font-weight: bolder;
+    background-color: yellow;
+    font-size: xx-large;
+    text-align: center;
+
+}
+    
+
+.cord-changes{
+    padding-inline: 50px;
+}

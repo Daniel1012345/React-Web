@@ -1,0 +1,25 @@
+.custom-form{
+    background-color: white;
+}
+.custom-form h2{
+    color: black;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    color: black;
+}
+
+.custom-contact{
+    background-color: yellow;
+    /* margin-right: 150px; */
+    padding-top: 20px;
+}
+.custom-contact h4{
+    color: black;
+}
+.custom-contact h6{
+    color: black;
+}
+
+.custom-contact p{
+    color: black;
+}

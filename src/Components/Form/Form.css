@@ -1,0 +1,10 @@
+.custom-input{
+    border: none;
+    border-bottom: 0.1px solid;
+    border-radius: 0%;
+}
+
+.custom-button{
+    margin-left: 40%;
+    margin-top: 20px;
+}

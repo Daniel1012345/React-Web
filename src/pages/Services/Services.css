@@ -1,0 +1,21 @@
+.custom-services{
+    margin-top: 170px;
+    height: 75rem;
+}
+@media screen and (max-width: 450px){
+    .custom-services{
+        height: 150rem;
+    }
+}
+.custom-services .lead{
+    margin-bottom: 20px;
+    font-weight: bolder;
+    background-color: yellow;
+    font-size: xx-large;
+    text-align: center;
+}
+.custom-services h3{
+    color: black;
+    margin-left: 50px;
+    font-weight: bolder;
+}

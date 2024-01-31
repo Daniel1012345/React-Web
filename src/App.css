@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Besley&family=Poppins&display=swap');
+
+:root{
+    --main: rgb(1194, 9, 240);
+  
+    --boxShadow: 15px 15px 15px -10px rgba(7, 22, 62,0.7),
+      inset 10px 10px 10px -10px rgba(18, 23, 125, 0.946);
+}
+* {
+    font-family: 'Besley', serif;
+    transition: 0.2s ease-in;
+}
+
+  
+*::selection{
+    background:var(--main);
+    color: #fff;
+}
+
+body{
+    background: #f5f5f5;
+    color: #fff;
+  }
